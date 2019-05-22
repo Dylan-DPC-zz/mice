@@ -1,0 +1,9 @@
+[package]
+name = "mice"
+version = "0.1.0"
+authors = ["Dylan DPC <dylan.dpc@gmail.com>"]
+edition = "2018"
+license = "MIT OR APACHE-2.0"
+
+
+[dependencies]
